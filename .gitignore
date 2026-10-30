@@ -1,0 +1,28 @@
+# Virtual environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environment / OS / Cloud Shell dotfiles
+.gemini/
+.ssh/
+.config/
+.cache/
+.local/
+.npm/
+.vscode/
+.codeoss/
+.docker/
+.gsutil/
+.rustup/
+.cargo/
+.bash*
+.profile
+.gitconfig
+.lesshst
+.python_history
+.sudo_as_admin_successful
+README-cloudshell.txt
